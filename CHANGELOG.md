@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/midhey/builder/compare/v1.0.0...v1.1.0) (2025-08-13)
+
+
+### Features
+
+* **gulp:** add exeption to html task ([49fa332](https://github.com/midhey/builder/commit/49fa3328361035b54b439bb5b0d31cdaed20374d))
+
 ## 1.0.0 (2025-08-13)
 
 
